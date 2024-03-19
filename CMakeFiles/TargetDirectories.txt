@@ -1,8 +1,0 @@
-/home/shaofeng/workspace2/CMakeFiles/tinyxml.dir
-/home/shaofeng/workspace2/CMakeFiles/test_tcp_client.dir
-/home/shaofeng/workspace2/CMakeFiles/rocket.dir
-/home/shaofeng/workspace2/CMakeFiles/edit_cache.dir
-/home/shaofeng/workspace2/CMakeFiles/test_log.dir
-/home/shaofeng/workspace2/CMakeFiles/test_eventloop.dir
-/home/shaofeng/workspace2/CMakeFiles/rebuild_cache.dir
-/home/shaofeng/workspace2/CMakeFiles/test_tcp.dir
